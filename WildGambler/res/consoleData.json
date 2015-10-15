@@ -1,0 +1,344 @@
+{
+	"layers": [{
+		"elements": [{
+			"name": "hud_bg.png",
+			"x": "0 ",
+			"y": "0 ",
+			"width": "64 ",
+			"height": "86 ",
+			"id": "hud_bg.png",
+			"layer": 0
+		}]
+	},
+	{
+		"elements": [{
+			"name": "btn_lines_normal.png",
+			"x": "7 ",
+			"y": "4 ",
+			"width": "187 ",
+			"height": "84 ",
+			"id": "btn_lines_normal.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_lines_inactive.png",
+			"x": "7 ",
+			"y": "4 ",
+			"width": "187 ",
+			"height": "84 ",
+			"id": "btn_lines_inactive.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_lineBetMinus_inactive.png",
+			"x": "193 ",
+			"y": "4 ",
+			"width": "257 ",
+			"height": "84 ",
+			"id": "btn_lineBetMinus_inactive.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_lineBetMinus_normal.png",
+			"x": "193 ",
+			"y": "4 ",
+			"width": "257 ",
+			"height": "84 ",
+			"id": "btn_lineBetMinus_normal.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_lineBetMinus_pressed.png",
+			"x": "193 ",
+			"y": "4 ",
+			"width": "257 ",
+			"height": "84 ",
+			"id": "btn_lineBetMinus_pressed.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_lineBetMiddle_inactive.png",
+			"x": "257 ",
+			"y": "4 ",
+			"width": "395 ",
+			"height": "84 ",
+			"id": "btn_lineBetMiddle_inactive.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_lineBetMiddle_normal.png",
+			"x": "257 ",
+			"y": "4 ",
+			"width": "395 ",
+			"height": "84 ",
+			"id": "btn_lineBetMiddle_normal.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_lineBetPlus_inactive.png",
+			"x": "395 ",
+			"y": "4 ",
+			"width": "459 ",
+			"height": "84 ",
+			"id": "btn_lineBetPlus_inactive.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_lineBetPlus_normal.png",
+			"x": "395 ",
+			"y": "4 ",
+			"width": "459 ",
+			"height": "84 ",
+			"id": "btn_lineBetPlus_normal.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_lineBetPlus_pressed.png",
+			"x": "395 ",
+			"y": "4 ",
+			"width": "459 ",
+			"height": "84 ",
+			"id": "btn_lineBetPlus_pressed.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_autoplay_stop_pressed.png",
+			"x": "465 ",
+			"y": "4 ",
+			"width": "645 ",
+			"height": "84 ",
+			"id": "btn_autoplay_stop_pressed.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_autoplay_stop_normal.png",
+			"x": "465 ",
+			"y": "4 ",
+			"width": "645 ",
+			"height": "84 ",
+			"id": "btn_autoplay_stop_normal.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_autoplay_stop_inactive.png",
+			"x": "465 ",
+			"y": "4 ",
+			"width": "645 ",
+			"height": "84 ",
+			"id": "btn_autoplay_stop_inactive.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_blank_pressed.png",
+			"x": "465 ",
+			"y": "4 ",
+			"width": "645 ",
+			"height": "84 ",
+			"id": "btn_blank_pressed.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_blank_normal.png",
+			"x": "465 ",
+			"y": "4 ",
+			"width": "645 ",
+			"height": "84 ",
+			"id": "btn_blank_normal.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_autoplay_inactive.png",
+			"x": "465 ",
+			"y": "4 ",
+			"width": "645 ",
+			"height": "84 ",
+			"id": "btn_autoplay_inactive.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_autoplay_pressed.png",
+			"x": "465 ",
+			"y": "4 ",
+			"width": "645 ",
+			"height": "84 ",
+			"id": "btn_autoplay_pressed.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_autoplay_normal.png",
+			"x": "465 ",
+			"y": "4 ",
+			"width": "645 ",
+			"height": "84 ",
+			"id": "btn_autoplay_normal.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_spin_inactive.png",
+			"x": "651 ",
+			"y": "4 ",
+			"width": "831 ",
+			"height": "84 ",
+			"id": "btn_spin_inactive.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_spin_pressed.png",
+			"x": "651 ",
+			"y": "4 ",
+			"width": "831 ",
+			"height": "84 ",
+			"id": "btn_spin_pressed.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_spin_normal.png",
+			"x": "651 ",
+			"y": "4 ",
+			"width": "831 ",
+			"height": "84 ",
+			"id": "btn_spin_normal.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_lockspin_inactive.png",
+			"x": "837 ",
+			"y": "4 ",
+			"width": "1017 ",
+			"height": "84 ",
+			"id": "btn_lockspin_inactive.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_lockspin_pressed.png",
+			"x": "837 ",
+			"y": "4 ",
+			"width": "1017 ",
+			"height": "84 ",
+			"id": "btn_lockspin_pressed.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_lockspin_normal.png",
+			"x": "837 ",
+			"y": "4 ",
+			"width": "1017 ",
+			"height": "84 ",
+			"id": "btn_lockspin_normal.png",
+			"layer": 1
+		},
+
+		{
+			"name": "btn_autoplay_selection_bottom_normal.png",
+			"x": "465 ",
+			"y": "34 ",
+			"width": "645 ",
+			"height": "84 ",
+			"id": "btn_autoplay_selection_bottom_normal.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_autoplay_selection_bottom_pressed.png",
+			"x": "465 ",
+			"y": "34 ",
+			"width": "645 ",
+			"height": "84 ",
+			"id": "btn_autoplay_selection_bottom_pressed.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_autoplay_selection_middle_normal.png",
+			"x": "465 ",
+			"y": "34 ",
+			"width": "645 ",
+			"height": "82 ",
+			"id": "btn_autoplay_selection_middle_normal.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_autoplay_selection_middle_pressed.png",
+			"x": "465 ",
+			"y": "34 ",
+			"width": "645 ",
+			"height": "82 ",
+			"id": "btn_autoplay_selection_middle_pressed.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_autoplay_selection_top_normal.png",
+			"x": "465 ",
+			"y": "34 ",
+			"width": "645 ",
+			"height": "82 ",
+			"id": "btn_autoplay_selection_top_normal.png",
+			"layer": 1
+		},
+		{
+			"name": "btn_autoplay_selection_top_pressed.png",
+			"x": "465 ",
+			"y": "34 ",
+			"width": "645 ",
+			"height": "82 ",
+			"id": "btn_autoplay_selection_top_pressed.png",
+			"layer": 1
+		}
+		]
+	},
+	{
+		"elements": [{
+			"name": "txt_lockandspinbet_HelveticaBold_20pt_000000",
+			"x": "857 ",
+			"y": "14 ",
+			"width": "997 ",
+			"height": "40 ",
+			"id": "txt_lockandspinbet_HelveticaBold_20pt_000000",
+			"layer": 2
+		},
+		{
+			"name": "txt_totalbet_HelveticaBold_20pt_000000",
+			"x": "671 ",
+			"y": "14 ",
+			"width": "811 ",
+			"height": "40 ",
+			"id": "txt_totalbet_HelveticaBold_20pt_000000",
+			"layer": 2
+		},
+		{
+			"name": "txt_autoplay_HelveticaBold_20pt_000000",
+			"x": "484 ",
+			"y": "14 ",
+			"width": "624 ",
+			"height": "40 ",
+			"id": "txt_autoplay_HelveticaBold_20pt_000000",
+			"layer": 2
+		},
+		{
+			"name": "txt_linebet_HelveticaBold_20pt_000000",
+			"x": "259 ",
+			"y": "14 ",
+			"width": "393 ",
+			"height": "40 ",
+			"id": "txt_linebet_HelveticaBold_20pt_000000",
+			"layer": 2
+		},
+		{
+			"name": "txt_lines_HelveticaBold_20pt_FFFFFF",
+			"x": "27 ",
+			"y": "14 ",
+			"width": "167 ",
+			"height": "40 ",
+			"id": "txt_lines_HelveticaBold_20pt_FFFFFF",
+			"layer": 2
+		},
+		
+		{
+			"name": "txt_autoplayselection_Yikes! ZO version_30pt_009fd2",
+			"x": "484 ",
+			"y": "42 ",
+			"width": "624 ",
+			"height": "75 ",
+			"id": "txt_autoplayselection_Yikes! ZO version_30pt_009fd2",
+			"layer": 2
+		}]
+	}]
+}

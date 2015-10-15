@@ -1,0 +1,11 @@
+{
+	"files":[{"nameFile":"btns1.json"},
+			 {"nameFile":"btns2.json"},
+			 {"nameFile":"low/icons_04.json"},
+			 {"nameFile":"icons_03.json"},
+			 {"nameFile":"messages1.json"},
+			 {"nameFile":"countUp.json"},
+			 {"nameFile":"bonus.json"},
+			 {"nameFile":"settings.json"},
+			 {"nameFile":"loadingInGameAni.json"}]
+}

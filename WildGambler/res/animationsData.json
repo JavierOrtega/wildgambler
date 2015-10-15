@@ -1,0 +1,15 @@
+{
+	"layers": [{
+		"elements": [{
+			"name": "pixel1.png",
+			"x": "0 ",
+			"y": "2 ",
+			"width": "1 ",
+			"height": "1 ",
+			"id": "pixel1.png",
+			"layer": 0
+		}]
+	}
+	
+	]
+}

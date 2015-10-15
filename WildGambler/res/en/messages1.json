@@ -1,0 +1,188 @@
+{"frames": {
+
+"big_win.png":
+{
+	"frame": {"x":2,"y":2,"w":696,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":696,"h":198},
+	"sourceSize": {"w":696,"h":198}
+},
+"freespin.png":
+{
+	"frame": {"x":2,"y":698,"w":726,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":726,"h":60},
+	"sourceSize": {"w":726,"h":60}
+},
+"freespins.png":
+{
+	"frame": {"x":2,"y":636,"w":726,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":726,"h":60},
+	"sourceSize": {"w":726,"h":60}
+},
+"freespins_0.png":
+{
+	"frame": {"x":88,"y":805,"w":41,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":50},
+	"sourceSize": {"w":41,"h":50}
+},
+"freespins_1.png":
+{
+	"frame": {"x":45,"y":805,"w":41,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":50},
+	"sourceSize": {"w":41,"h":50}
+},
+"freespins_2.png":
+{
+	"frame": {"x":2,"y":805,"w":41,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":50},
+	"sourceSize": {"w":41,"h":50}
+},
+"freespins_3.png":
+{
+	"frame": {"x":656,"y":760,"w":41,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":50},
+	"sourceSize": {"w":41,"h":50}
+},
+"freespins_4.png":
+{
+	"frame": {"x":613,"y":760,"w":41,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":50},
+	"sourceSize": {"w":41,"h":50}
+},
+"freespins_5.png":
+{
+	"frame": {"x":570,"y":760,"w":41,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":50},
+	"sourceSize": {"w":41,"h":50}
+},
+"freespins_6.png":
+{
+	"frame": {"x":457,"y":798,"w":41,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":50},
+	"sourceSize": {"w":41,"h":50}
+},
+"freespins_7.png":
+{
+	"frame": {"x":414,"y":798,"w":41,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":50},
+	"sourceSize": {"w":41,"h":50}
+},
+"freespins_8.png":
+{
+	"frame": {"x":371,"y":798,"w":41,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":50},
+	"sourceSize": {"w":41,"h":50}
+},
+"freespins_9.png":
+{
+	"frame": {"x":527,"y":760,"w":41,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":50},
+	"sourceSize": {"w":41,"h":50}
+},
+"freespins_total.png":
+{
+	"frame": {"x":2,"y":760,"w":367,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":367,"h":43},
+	"sourceSize": {"w":367,"h":43}
+},
+"topmessage0001.png":
+{
+	"frame": {"x":2,"y":574,"w":726,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":726,"h":60},
+	"sourceSize": {"w":726,"h":60}
+},
+"topmessage0002.png":
+{
+	"frame": {"x":2,"y":512,"w":726,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":726,"h":60},
+	"sourceSize": {"w":726,"h":60}
+},
+"topmessage0003.png":
+{
+	"frame": {"x":2,"y":450,"w":726,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":726,"h":60},
+	"sourceSize": {"w":726,"h":60}
+},
+"topmessage0004.png":
+{
+	"frame": {"x":2,"y":388,"w":726,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":726,"h":60},
+	"sourceSize": {"w":726,"h":60}
+},
+"topmessage0005.png":
+{
+	"frame": {"x":2,"y":326,"w":726,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":726,"h":60},
+	"sourceSize": {"w":726,"h":60}
+},
+"topmessage0006.png":
+{
+	"frame": {"x":2,"y":264,"w":726,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":726,"h":60},
+	"sourceSize": {"w":726,"h":60}
+},
+"totalWin.png":
+{
+	"frame": {"x":371,"y":760,"w":154,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":36},
+	"sourceSize": {"w":154,"h":36}
+},
+"wildgamblertitle.png":
+{
+	"frame": {"x":2,"y":202,"w":726,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":726,"h":60},
+	"sourceSize": {"w":726,"h":60}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "messages1.png",
+	"format": "RGBA8888",
+	"size": {"w":730,"h":857},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:178388a1d80c48f68a8acf0872e759da$"
+}
+}

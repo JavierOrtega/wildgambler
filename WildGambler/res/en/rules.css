@@ -1,0 +1,119 @@
+body
+{
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  -webkit-transform: translate3d(0, 0, 0);
+  
+  font-family: Helvetica;
+  font-size: 100%;
+
+  -webkit-text-size-adjust: 100%;
+  font-size: 1em;
+}
+
+#rulesContainer
+{
+	width : 80%;
+	padding: 0 10%; /* important for iOS */
+	display: block;
+    margin: 0 auto;
+    
+   	overflow: hidden; /* change to "auto" to show scrollbar on desktop */
+    height: 100%;
+}
+
+.content-wrapper
+{
+	/* background */
+	background-color: rgba(0,0,0,0.8);
+	border: 1px solid #898989;
+
+	/* border */
+	border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+
+	/* shadow */	
+	-webkit-box-shadow: 0px 0px 6px 1px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0px 0px 6px 1px rgba(0, 0, 0, .75);
+	box-shadow: 0px 0px 6px 1px rgba(0, 0, 0, .75);
+	
+	/* position */
+	margin: 40px 0;
+	padding: 2.5em 13%;
+}
+
+p.note
+{
+	padding: 0;
+	margin: 0.5em;
+}
+
+h1, h2
+{
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 160%;
+	margin-top: 2em;
+	text-align: center;
+}
+
+h1
+{
+	text-transform: uppercase;
+	margin-top: 0;
+	margin-bottom: 2em;
+}
+
+ul
+{
+	padding-left: 1.5em;
+	margin: 0;
+}
+
+ul li
+{
+	padding-bottom: 0.5em;
+}
+
+table 
+{
+	border: 1px;
+	width: 100%;
+	margin: 1em auto;
+	
+	border-collapse: collapse;
+}
+
+table th
+{
+	width: 60%;
+}
+
+table td, th
+{
+	border: 1px solid #fff;
+	padding: 0.2em 1em;
+}
+
+table th
+{
+	font-weight: bold;
+	text-align: left;
+	width: 50%;
+}
+
+/* icon images */
+span.image img
+{
+	vertical-align: middle;
+	height: 3em;
+	margin: 0.2em;
+}
+
+/* adjust font size for smartphones */
+.smartphone body
+{
+	font-size: 9pt;
+}

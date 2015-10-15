@@ -1,0 +1,22 @@
+{
+	"Lobby":{"text": "Lobby","color": "white"},
+	"paytable":{"text": "Info","color": "white"},
+	"Sound":{"text": "Sound","color": "white"},
+	"Help":{"text": "Help","color": "white"},
+	"Info":{"text": "Info","color": "white"},
+	"Support":{"text": "Support","color": "white"},
+	"Deposit":{"text": "Deposit","color": "white"},
+	"Withdraw":{"text": "Withdraw","color": "white"},	
+	"Cashier":{"text": "Cashier","color": "white"},	
+	"Transactions":{"text": "Transactions","color": "0xe9b63d"},
+	"PlayForReal":{"text": "Play for Real","color": "0xadd06e"},
+	"Settings":{"text": "Settings","color": "white"},
+	"Login":{"text": "Log in","color": "white"},
+	"Logout":{"text": "Log out","color": "white"},
+	"InviteFriend":{"text": "Invite Friend","color": "white"},
+	"Share":{"text": "Share","color": "white"},
+	"GamCare":{"text": "","color": "white"},
+	"ResponsibleGambling3":{"text": "","color": "white"},
+	"PlayingForFun":{"text": "PLAYING FOR FUN","color": "white"},
+	"PlayingForReal":{"text": "PLAYING FOR REAL","color": "white"}
+}

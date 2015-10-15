@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Wild Gambler Paytable</title>
+        <link rel="stylesheet" type="text/css" href="paytable.css">
+        <script src="makeScrollable.js"></script>
+    </head>
+    
+    <body>
+    	<div id="ptcontainer">
+	    	<img alt="Wild Gambler Paytable Image 1" src="../paytable_page_01.png" />
+	    	<img alt="Wild Gambler Paytable Image 2" src="../paytable_page_02.png" />
+	    	<img alt="Wild Gambler Paytable Image 3" src="../paytable_page_03.png" />
+	    	<img alt="Wild Gambler Paytable Image 4" src="../paytable_page_04.png" />
+	    	<img alt="Wild Gambler Paytable Image 5" src="../paytable_page_05.png" />
+    	</div>
+
+			<script>
+window.onload = function()
+{
+	function onResize()
+	{
+		document.body.style.height = window.innerHeight + "px";
+	}
+	
+	onResize();
+	setInterval(onResize, 1000); //iOS 5 scrolling - important
+	
+	window.onresize = onResize;
+
+	makeScrollable(document.getElementById("ptcontainer"));
+}
+		</script>
+
+	</body>
+</html>

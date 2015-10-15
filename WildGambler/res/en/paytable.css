@@ -1,0 +1,38 @@
+/*
+ * No idea what this is about: ask Mikey :)
+ */
+body
+{
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  -webkit-transform: translate3d(0, 0, 0); 
+}
+
+/*
+ * Use 80% of the width of the page body
+ * Define as a block with auto margins to center ptcontainer on page.
+ */
+#ptcontainer
+{
+	width : 95%;
+	display: block;
+    padding: 0 2.5%; /* important for iOS */
+    
+	overflow: hidden; /* change to "auto" to show scrollbar on desktop */
+    height: 100%;
+}
+
+/*
+ * Paytable images
+ * Should be 100% of the available 80%
+ */
+#ptcontainer img
+{
+	-webkit-user-select: none; user-select: none; /* disable text selection on desktop - breaks mouse scrolling */
+	pointer-events: none; /* disable image drag and drop on desktop browsers - breaks mouse scrolling */
+	width : 100%;
+	margin-bottom: 50px;
+}
+
+#ptcontainer img:first-child { margin-top: 6%; }

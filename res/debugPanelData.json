@@ -1,0 +1,211 @@
+{
+	"layers": [{
+		"elements": [{
+			"name": "btn_debugOpen_normal.png",
+			"x": "152 ",
+			"y": "53 ",
+			"width": "226 ",
+			"height": "84 ",
+			"id": "btn_debugOpen_normal.png",
+			"layer": 0
+		},
+		{
+			"name": "btn_debugOpen_active.png",
+			"x": "152 ",
+			"y": "53 ",
+			"width": "226 ",
+			"height": "86 ",
+			"id": "btn_debugOpen_active.png",
+			"layer": 0
+		},
+		{
+			"name": "btn_debugClose_normal.png",
+			"x": "0 ",
+			"y": "53 ",
+			"width": "74 ",
+			"height": "86 ",
+			"id": "btn_debugClose_normal.png",
+			"layer": 0
+		},
+		{
+			"name": "btn_debugClose_active.png",
+			"x": "0 ",
+			"y": "53 ",
+			"width": "74 ",
+			"height": "86 ",
+			"id": "btn_debugClose_active.png",
+			"layer": 0
+		},
+		{
+			"name": "debug_bg_full.png",
+			"x": "61 ",
+			"y": "0 ",
+			"width": "226 ",
+			"height": "1024 ",
+			"id": "debug_bg_full.png",
+			"layer": 0
+		},
+		{
+			"name": "tgl_debugBtn_off.png",
+			"x": "100 ",
+			"y": "209 ",
+			"width": "202 ",
+			"height": "271 ",
+			"id": "tgl_debugBtn_off.png",
+			"layer": 0
+		},
+		{
+			"name": "tgl_debugBtn_pressed.png",
+			"x": "100 ",
+			"y": "209 ",
+			"width": "202 ",
+			"height": "271 ",
+			"id": "tgl_debugBtn_pressed.png",
+			"layer": 0
+		},
+		{
+			"name": "tgl_debugBtn_on.png",
+			"x": "101 ",
+			"y": "209 ",
+			"width": "202 ",
+			"height": "271 ",
+			"id": "tgl_debugBtn_on.png",
+			"layer": 0
+		},
+		{
+			"name": "txt_wildLabelOff_HelveticaBold_18pt_ffffff",
+			"x": "103 ",
+			"y": "229 ",
+			"width": "199 ",
+			"height": "250 ",
+			"id": "txt_wildLabelOff_HelveticaBold_18pt_ffffff",
+			"layer": 0
+		},
+		{
+			"name": "txt_wildLabelOff_HelveticaBold_18pt_000000",
+			"x": "103 ",
+			"y": "229 ",
+			"width": "199 ",
+			"height": "250 ",
+			"id": "txt_wildLabelOff_HelveticaBold_18pt_000000",
+			"layer": 0
+		},
+		{
+			"name": "txt_wildLabelHilight_HelveticaBold_18pt_000000",
+			"x": "103 ",
+			"y": "229 ",
+			"width": "199 ",
+			"height": "250 ",
+			"id": "txt_wildLabelHilight_HelveticaBold_18pt_000000",
+			"layer": 0
+		},
+		{
+			"name": "tgl_debugBtn_off.png",
+			"x": "100 ",
+			"y": "125 ",
+			"width": "202 ",
+			"height": "187 ",
+			"id": "tgl_debugBtn_off.png",
+			"layer": 0
+		},
+		{
+			"name": "tgl_debugBtn_pressed.png",
+			"x": "100 ",
+			"y": "125 ",
+			"width": "202 ",
+			"height": "187 ",
+			"id": "tgl_debugBtn_pressed.png",
+			"layer": 0
+		},
+		{
+			"name": "tgl_debugBtn_on.png",
+			"x": "101 ",
+			"y": "125 ",
+			"width": "202 ",
+			"height": "187 ",
+			"id": "tgl_debugBtn_on.png",
+			"layer": 0
+		},
+		{
+			"name": "txt_bigWinLabelOff_HelveticaBold_18pt_ffffff ",
+			"x": "103 ",
+			"y": "145 ",
+			"width": "199 ",
+			"height": "166 ",
+			"id": "txt_bigWinLabelOff_HelveticaBold_18pt_ffffff ",
+			"layer": 0
+		},
+		{
+			"name": "txt_bigWinLabelOff_HelveticaBold_18pt_000000",
+			"x": "103 ",
+			"y": "145 ",
+			"width": "199 ",
+			"height": "166 ",
+			"id": "txt_bigWinLabelOff_HelveticaBold_18pt_000000",
+			"layer": 0
+		},
+		{
+			"name": "txt_bigWinLabelHilight_HelveticaBold_18pt_000000",
+			"x": "103 ",
+			"y": "145 ",
+			"width": "199 ",
+			"height": "166 ",
+			"id": "txt_bigWinLabelHilight_HelveticaBold_18pt_000000",
+			"layer": 0
+		},
+		{
+			"name": "tgl_debugBtn_off.png",
+			"x": "100 ",
+			"y": "41 ",
+			"width": "202 ",
+			"height": "103 ",
+			"id": "tgl_debugBtn_off.png",
+			"layer": 0
+		},
+		{
+			"name": "tgl_debugBtn_pressed.png",
+			"x": "100 ",
+			"y": "41 ",
+			"width": "202 ",
+			"height": "103 ",
+			"id": "tgl_debugBtn_pressed.png",
+			"layer": 0
+		},
+		{
+			"name": "tgl_debugBtn_on.png",
+			"x": "101 ",
+			"y": "41 ",
+			"width": "202 ",
+			"height": "103 ",
+			"id": "tgl_debugBtn_on.png",
+			"layer": 0
+		},
+		{
+			"name": "txt_wildLabelOff_HelveticaBold_18pt_ffffff",
+			"x": "103 ",
+			"y": "61 ",
+			"width": "199 ",
+			"height": "82 ",
+			"id": "txt_wildLabelOff_HelveticaBold_18pt_ffffff",
+			"layer": 0
+		},
+		{
+			"name": "txt_wildLabelOff_HelveticaBold_18pt_000000",
+			"x": "103 ",
+			"y": "61 ",
+			"width": "199 ",
+			"height": "82 ",
+			"id": "txt_wildLabelOff_HelveticaBold_18pt_000000",
+			"layer": 0
+		},
+		{
+			"name": "txt_wildLabelHilight_HelveticaBold_18pt_000000",
+			"x": "103 ",
+			"y": "61 ",
+			"width": "199 ",
+			"height": "82 ",
+			"id": "txt_wildLabelHilight_HelveticaBold_18pt_000000",
+			"layer": 0
+		}]
+	}]
+}

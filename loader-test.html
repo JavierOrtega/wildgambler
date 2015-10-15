@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<title></title>
+	<script type="text/javascript" src="initGame.js"></script>
+
+	<meta id="__viewport" name="viewport"/>
+	<script type="text/javascript">
+		if (typeof calculateViewport != "undefined")
+		{
+			var viewport = calculateViewport();
+			document.getElementsById("__viewport").setAttribute("content", viewport);
+		}
+	</script>
+
+	<script type="text/javascript" src="__vf.js"></script>
+
+	<script type="text/javascript">
+		(function ($)
+		{
+			__vf.initLoader = function ()
+			{
+				var queryParams = $.getQuery();
+
+				var returnUrl = queryParams['returnUrl'];
+				if (returnUrl)
+				{
+					__vf.validateReferrer(queryParams, returnUrl, function ()
+					{
+						return returnUrl;
+					});
+				}
+
+				var initParamsObj = JSON.parse(queryParams['paramsObj']);
+
+				var sessionStatusUrl = queryParams['sessionStatusUrl'];
+				if (sessionStatusUrl && returnUrl)
+				{
+					$.ajax({
+						       type: "POST",
+						       url: sessionStatusUrl,
+						       dataType: "text",
+						       xhrFields: {
+							       withCredentials: true
+						       },
+						       success: function ()
+						       {
+							       initGame(initParamsObj, function ()
+							       {
+							       });
+						       },
+						       error: function (xhr, status, error)
+						       {
+							       document.location = returnUrl;
+						       }
+					       });
+				}
+				else
+				{
+					initGame(initParamsObj, function ()
+					{
+					});
+				}
+			}
+		})(__vf.jQuery);
+	</script>
+</head>
+<body onload="__vf.initLoader()"></body>
+</html>

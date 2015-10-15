@@ -1,0 +1,108 @@
+{"frames": {
+
+"big_win0001.png":
+{
+	"frame": {"x":2,"y":2,"w":46,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":70},
+	"sourceSize": {"w":46,"h":70}
+},
+"big_win0002.png":
+{
+	"frame": {"x":50,"y":2,"w":46,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":70},
+	"sourceSize": {"w":46,"h":70}
+},
+"big_win0003.png":
+{
+	"frame": {"x":98,"y":2,"w":46,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":70},
+	"sourceSize": {"w":46,"h":70}
+},
+"big_win0004.png":
+{
+	"frame": {"x":146,"y":2,"w":46,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":70},
+	"sourceSize": {"w":46,"h":70}
+},
+"big_win0005.png":
+{
+	"frame": {"x":194,"y":2,"w":46,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":70},
+	"sourceSize": {"w":46,"h":70}
+},
+"big_win0006.png":
+{
+	"frame": {"x":242,"y":2,"w":46,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":70},
+	"sourceSize": {"w":46,"h":70}
+},
+"big_win0007.png":
+{
+	"frame": {"x":290,"y":2,"w":46,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":70},
+	"sourceSize": {"w":46,"h":70}
+},
+"big_win0008.png":
+{
+	"frame": {"x":338,"y":2,"w":46,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":70},
+	"sourceSize": {"w":46,"h":70}
+},
+"big_win0009.png":
+{
+	"frame": {"x":386,"y":2,"w":46,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":70},
+	"sourceSize": {"w":46,"h":70}
+},
+"big_win0010.png":
+{
+	"frame": {"x":434,"y":2,"w":46,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":70},
+	"sourceSize": {"w":46,"h":70}
+},
+"big_win0011.png":
+{
+	"frame": {"x":482,"y":2,"w":46,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":70},
+	"sourceSize": {"w":46,"h":70}
+},
+"big_win_decimal.png":
+{
+	"frame": {"x":530,"y":2,"w":46,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":70},
+	"sourceSize": {"w":46,"h":70}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "countUp.png",
+	"format": "RGBA8888",
+	"size": {"w":578,"h":74},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c8e978a54394a06473ea5b440e5d02ed$"
+}
+}

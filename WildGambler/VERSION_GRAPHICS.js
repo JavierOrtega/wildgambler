@@ -1,0 +1,1 @@
+window.VERSION_GRAPHICS = "0.0.0.1";

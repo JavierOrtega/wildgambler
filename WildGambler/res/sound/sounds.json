@@ -1,0 +1,214 @@
+{
+"sounds": [
+{
+"start" : 1.000,
+"end" : 5.4,
+"loop" : false,
+"name" : "Big Win Bell"
+},
+{
+"start" : 6.3,
+"end" : 7.5,
+"loop" : false,
+"name" : "cage break"
+},
+{
+"start" : 8.14,
+"end" : 8.76,
+"loop" : false,
+"name" : "cage lock"
+},
+{
+"start" : 9.7,
+"end" : 24.18,
+"loop" : true,
+"name" : "fs intro loop"
+},
+{
+"start" : 25,
+"end" : 54,
+"loop" : true,
+"name" : "fs loop"
+},
+{
+"start" : 54.49,
+"end" : 58.42,
+"loop" : false,
+"name" : "fs summary"
+},
+{
+"start" : 59.4,
+"end" : 60,
+"loop" : false,
+"name" : "fs start press"
+},
+{
+"start" : 60.88,
+"end" : 61.11,
+"loop" : false,
+"name" : "button press"
+},
+{
+"start" : 62.06,
+"end" : 63,
+"loop" : false,
+"name" : "lion roar 1"
+},
+{
+"start" : 63.98,
+"end" : 65.37,
+"loop" : false,
+"name" : "lion roar 2"
+},
+{
+"start" : 66.3,
+"end" : 67.49,
+"loop" : false,
+"name" : "lion roar 3"
+},
+{
+"start" : 70.85,
+"end" : 73.5,
+"loop" : false,
+"name" : "lion roar 4"
+},
+{
+"start" : 70.84,
+"end" : 83.42,
+"loop" : false,
+"name" : "lion roar 5"
+},
+{
+"start" : 74.49,
+"end" : 82.22,
+"loop" : false,
+"name" : "stake barrel spin"
+},
+{
+"start" : 83.300,
+"end" : 83.412,
+"loop" : false,
+"name" : "meerkat appear1"
+},
+{
+"start" : 84.412,
+"end" : 84.559,
+"loop" : false,
+"name" : "meerkat appear2"
+},
+{
+"start" : 85.559,
+"end" : 85.80,
+"loop" : false,
+"name" : "meerkat appear3"
+},
+{
+"start" : 86.66,
+"end" : 86.89,
+"loop" : false,
+"name" : "meerkat appear4"
+},
+{
+"start" : 87.81,
+"end" : 88.20,
+"loop" : false,
+"name" : "meerkat appear5"
+},
+{
+"start" : 88.955,
+"end" : 90.15,
+"loop" : false,
+"name" : "meerkat cheer"
+},
+{
+"start" : 91.06,
+"end" : 92.04,
+"loop" : false,
+"name" : "stake barrel stop"
+},
+{
+"start" : 93.04,
+"end" : 94.07,
+"loop" : false,
+"name" : "10 / J / Q"
+},
+{
+"start" : 95.01,
+"end" : 96.5,
+"loop" : false,
+"name" : "cheetah"
+},
+{
+"start" : 97.51,
+"end" : 99.19,
+"loop" : false,
+"name" : "Flamingo"
+},
+{
+"start" : 100,
+"end" : 102,
+"loop" : false,
+"name" : "K / A"
+},
+{
+"start" : 102,
+"end" : 104.5,
+"loop" : false,
+"name" : "lion win"
+},
+{
+"start" : 104.66,
+"end" : 106.25,
+"loop" : false,
+"name" : "rhino"
+},
+{
+"start" : 107,
+"end" : 109.5,
+"loop" : false,
+"name" : "Zebra"
+},
+{
+"start" : 110.00,
+"end" : 117.81,
+"loop" : true,
+"name" : "spin loop 1"
+},
+{
+"start" : 118.73,
+"end" : 123.99,
+"loop" : true,
+"name" : "spin loop 2"
+},
+{
+"start" : 124.93,
+"end" : 129.63,
+"loop" : true,
+"name" : "spin loop 3"
+},
+{
+"start" : 130.6,
+"end" : 130.86,
+"loop" : false,
+"name" : "line stake down"
+},
+{
+"start" : 131.88,
+"end" : 132.09,
+"loop" : false,
+"name" : "line stake up"
+},
+{
+"start" : 133,
+"end" : 133.5,
+"loop" : false,
+"name" : "lion roar on choosing wild"
+},
+{
+"start" : 134.43,
+"end" : 143.21,
+"loop" : true,
+"name" : "total win count"
+}
+]
+}

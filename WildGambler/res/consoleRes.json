@@ -1,0 +1,115 @@
+{
+	"list": [{
+		"url": "hud_bg.png"
+	},
+	{
+		"url": "btn_lines_normal.png"
+	},
+	{
+		"url": "btn_lines_inactive.png"
+	},
+	{
+		"url": "btn_lineBetMinus_inactive.png"
+	},
+	{
+		"url": "btn_lineBetMinus_normal.png"
+	},
+	{
+		"url": "btn_lineBetMinus_pressed.png"
+	},
+	{
+		"url": "btn_lineBetMiddle_inactive.png"
+	},
+	{
+		"url": "btn_lineBetMiddle_normal.png"
+	},
+	{
+		"url": "btn_lineBetPlus_inactive.png"
+	},
+	{
+		"url": "btn_lineBetPlus_normal.png"
+	},
+	{
+		"url": "btn_lineBetPlus_pressed.png"
+	},
+	{
+		"url": "btn_autoplay_stop_pressed.png"
+	},
+	{
+		"url": "btn_autoplay_stop_normal.png"
+	},
+	{
+		"url": "btn_autoplay_stop_inactive.png"
+	},	
+	{
+		"url": "btn_blank_pressed.png"
+	},
+	{
+		"url": "btn_blank_normal.png"
+	},
+	{
+		"url": "btn_autoplay_inactive.png"
+	},
+	{
+		"url": "btn_autoplay_pressed.png"
+	},
+	{
+		"url": "btn_autoplay_normal.png"
+	},
+	{
+		"url": "btn_spin_inactive.png"
+	},
+	{
+		"url": "btn_spin_pressed.png"
+	},
+	{
+		"url": "btn_spin_normal.png"
+	},
+	{
+		"url": "btn_lockspin_inactive.png"
+	},
+	{
+		"url": "btn_lockspin_pressed.png"
+	},
+	{
+		"url": "btn_lockspin_normal.png"
+	},
+	{
+		"url": "txt_lockandspinbet_HelveticaBold_20pt_000000"
+	},
+	{
+		"url": "txt_totalbet_HelveticaBold_20pt_000000"
+	},
+	{
+		"url": "txt_autoplay_HelveticaBold_20pt_000000"
+	},
+	{
+		"url": "txt_linebet_HelveticaBold_20pt_000000"
+	},
+	{
+		"url": "txt_lines_HelveticaBold_20pt_FFFFFF"
+	},
+	
+	{
+		"url": "btn_autoplay_selection_bottom_normal.png"
+	},
+	{
+		"url": "btn_autoplay_selection_bottom_pressed.png"
+	},
+	{
+		"url": "btn_autoplay_selection_middle_normal.png"
+	},
+	{
+		"url": "btn_autoplay_selection_middle_pressed.png"
+	},
+	{
+		"url": "btn_autoplay_selection_top_normal.png"
+	},
+	{
+		"url": "btn_autoplay_selection_top_pressed.png"
+	},
+	{
+		"url": "txt_autoplayselection_Yikes! ZO version_30pt_009fd2"
+	}
+	]
+}

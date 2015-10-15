@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<html lang>
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+	<title>Wild Gambler</title>
+	<link rel="stylesheet" href="css/framework.css">
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+	
+ 	<script src="ClassLoader.js" type="text/javascript"></script>
+	 
+	<script type="text/javaScript">
+	
+		//To prevent the double tap
+		document.ontouchmove = function(e)
+		{
+			e.preventDefault();
+		};
+		
+		 // To hide the top bar
+		addEventListener("load", function()
+		{
+			setTimeout(function(){ window.scrollTo(0, 1); }, 100);
+		}, false);
+		 
+		window.onpageshow = function(event)
+		{
+			if (event.persisted)
+			{
+				window.location.reload();
+			}
+		}
+	</script>
+</head>
+
+<body onload="StateFactory.start();" bgcolor="#000000"> 	
+ 	<!-- Hack to fix the -->
+ 	<a href="" target="_blank" id="hidden_link" style="display:none;"></a> 	
+
+	<!-- div to show main background --> 
+	<div id="background"></div>
+
+	<div  id="buttonsArea" >
+ 		<canvas id="buttons"></canvas>
+ 	</div>
+ 	
+ 	<div  id="panelsArea" >
+ 		<canvas id="panels" ></canvas>
+ 	</div>
+ 	
+ 	<div  id="reelsArea" >
+ 		<canvas id="reels" ></canvas>
+ 	</div>
+ 	
+ 	<div  id="animationsArea" >
+ 		<canvas id="animations" ></canvas>
+ 	</div>
+ 	
+ 	<div  id="winLinesArea" >
+ 		<canvas id="winLines" ></canvas>
+ 	</div>
+ 	
+ 	<div  id="loadingArea" >
+ 		<canvas id="loading" ></canvas>
+ 	</div> 	
+ 	<audio id="elmtAudio" src="" style="display:none;"></audio>
+ 		
+</body>
+</html>

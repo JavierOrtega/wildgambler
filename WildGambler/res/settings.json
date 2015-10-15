@@ -1,0 +1,172 @@
+{"frames": {
+
+"btn_close_inactive.png":
+{
+	"frame": {"x":920,"y":56,"w":52,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":52},
+	"sourceSize": {"w":52,"h":52}
+},
+"btn_close_normal.png":
+{
+	"frame": {"x":920,"y":2,"w":52,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":52},
+	"sourceSize": {"w":52,"h":52}
+},
+"btn_close_pressed.png":
+{
+	"frame": {"x":572,"y":400,"w":52,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":52},
+	"sourceSize": {"w":52,"h":52}
+},
+"btn_debugWild_normal.png":
+{
+	"frame": {"x":796,"y":154,"w":122,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":74},
+	"sourceSize": {"w":122,"h":74}
+},
+"btn_genericNo_pressed.png":
+{
+	"frame": {"x":796,"y":78,"w":122,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":74},
+	"sourceSize": {"w":122,"h":74}
+},
+"btn_genericNo_selected.png":
+{
+	"frame": {"x":796,"y":2,"w":122,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":74},
+	"sourceSize": {"w":122,"h":74}
+},
+"btn_genericOK_normal.png":
+{
+	"frame": {"x":672,"y":382,"w":122,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":74},
+	"sourceSize": {"w":122,"h":74}
+},
+"btn_genericOK_pressed.png":
+{
+	"frame": {"x":672,"y":306,"w":122,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":74},
+	"sourceSize": {"w":122,"h":74}
+},
+"btn_genericOK_selected.png":
+{
+	"frame": {"x":672,"y":230,"w":122,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":74},
+	"sourceSize": {"w":122,"h":74}
+},
+"btn_genericYes_normal.png":
+{
+	"frame": {"x":672,"y":154,"w":122,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":74},
+	"sourceSize": {"w":122,"h":74}
+},
+"btn_genericYes_pressed.png":
+{
+	"frame": {"x":672,"y":78,"w":122,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":74},
+	"sourceSize": {"w":122,"h":74}
+},
+"btn_genericYes_selected.png":
+{
+	"frame": {"x":672,"y":2,"w":122,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":74},
+	"sourceSize": {"w":122,"h":74}
+},
+"btn_toggleOff_inactive.png":
+{
+	"frame": {"x":907,"y":370,"w":109,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":68},
+	"sourceSize": {"w":109,"h":68}
+},
+"btn_toggleOff_normal.png":
+{
+	"frame": {"x":907,"y":300,"w":109,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":68},
+	"sourceSize": {"w":109,"h":68}
+},
+"btn_toggleOff_pressed.png":
+{
+	"frame": {"x":907,"y":230,"w":109,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":68},
+	"sourceSize": {"w":109,"h":68}
+},
+"btn_toggleOn_inactive.png":
+{
+	"frame": {"x":796,"y":370,"w":109,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":68},
+	"sourceSize": {"w":109,"h":68}
+},
+"btn_toggleOn_normal.png":
+{
+	"frame": {"x":796,"y":300,"w":109,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":68},
+	"sourceSize": {"w":109,"h":68}
+},
+"btn_toggleOn_pressed.png":
+{
+	"frame": {"x":796,"y":230,"w":109,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":68},
+	"sourceSize": {"w":109,"h":68}
+},
+"genericPopupBg.png":
+{
+	"frame": {"x":2,"y":2,"w":668,"h":396},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":668,"h":396},
+	"sourceSize": {"w":668,"h":396}
+},
+"toggleCell.png":
+{
+	"frame": {"x":2,"y":400,"w":568,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":568,"h":81},
+	"sourceSize": {"w":568,"h":81}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "settings.png",
+	"format": "RGBA8888",
+	"size": {"w":1018,"h":483},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:316e266bb701cb6dc11b205b04ef3ae1$"
+}
+}

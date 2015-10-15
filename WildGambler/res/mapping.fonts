@@ -1,0 +1,7 @@
+{
+	"fonts": [
+		{ "originalFont":"YikesZkAsh" , "mappedFont":"YikesZkAsh" }, 
+		{ "originalFont":"WinSausce" , "mappedFont":"ComicSans" }, 
+		{ "originalFont":"Amazathon" , "mappedFont":"Fondamento" }
+	]
+}

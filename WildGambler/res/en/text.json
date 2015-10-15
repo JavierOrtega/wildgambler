@@ -1,0 +1,49 @@
+{
+    "settings_header": "SETTINGS",
+    "settings_disable_autolock_wilds": "Disable Auto-lock Wilds",
+    "autoplays": "%1 AUTOPLAYS",
+    "autoplayOff": "OFF",
+ 
+ 	"winLines": "WIN LINES",
+ 	"freeSpin": "FREE SPIN",
+ 	"freeSpins": "FREE SPINS",
+ 	"freeSpinsTotal": "FREE SPINS TOTAL",
+ 	"pays": "PAYS",
+     
+    "oneLine": "(1 line)",
+    "numLines":"(%1 lines)",
+    "fromStake": "(from %1 stake)",
+    "fromLine": "(line %1)",
+    
+    "btnOk": "OK",
+	"Deposit": "Deposit",
+	"Withdraw":"Withdraw",	
+	"Cashier":"Cashier",	
+	
+	"noFundsTitle": "Insufficient Funds",
+	"noFundsBody": "We have not been able to place your bet.\nPlease check your updated balance.",
+
+	"invalidTitle": "Invalid Bet",
+	"invalidBody": "There has been an error in your browser, \nplease refresh.",
+
+	"invalidBetTitle": "Invalid Bet",
+	"invalidBetBody": "One or more of your bets is incomplete.\nPlease make sure you complete all your bets.",
+
+	"maxBetTitle": "Maximum Stake",
+	"maxBetBody": "You have exceeded the maximum stake of\n %1 allowed for this bet.",
+
+	"accountFailureTitle": "Session Lost",
+	"accountFailureBody": "Please log into your account.\nIf you were previously logged in,\nyour session may have expired.",
+        
+    "maxWinTitle": "Maximum Winnings",
+	"maxWinBody": "You have reached the maximum winnings limit of %1.\nYour current game will now end and your winnings\nwill be credited to your balance.",
+	
+	"serverErrorTitle": "Error",
+	"serverErrorBody": "There has been an error in your browser, \nplease refresh.",
+	
+	"connectionTitle": "Connection Error",
+	"connectionBody": "You have been disconnected from the gaming server. \nPlease check your internet connection.",
+
+	"unknownTitle": "Error",
+	"unknownBody": "There has been an error in your browser, \nplease refresh."
+}

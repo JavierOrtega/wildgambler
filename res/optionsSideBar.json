@@ -1,0 +1,105 @@
+{
+	"gameUrl" : "WildGambler/index.html",
+	"options": [{
+					"name": "home",
+					"url": "http://m.ashgaming.co.uk/ashlobby/",
+					"enabled":"true"
+				},
+				{
+					"name": "paytable",
+					"enabled":"true"
+				},
+				{
+					"name": "soundOn",
+					"enabled":"true"
+				},
+				{
+					"name": "help",
+					"enabled":"true"
+				},
+				{
+					"name": "settings",
+					"enabled":"true"
+				},				
+				{
+					"name": "info",
+					"url":"http://www.google.com",
+					"enabled":"false"
+				},
+				{
+					"name": "support",
+					"url":"http://www.google.com",
+					"enabled":"false"
+				},
+				{
+					"name": "deposit",
+					"url":"http://www.google.com",
+					"enabled":"true"
+				},				
+				{
+					"name": "withdraw",
+					"url": "http://www.google.com",
+					"enabled":"true"
+				},
+				{	
+					"name":"cashier",
+					"url": "http://www.google.com",
+					"enabled":"true"
+				},
+				{	
+					"name":"transactions",
+					"url": "http://www.google.com",
+					"enabled":"true"
+				},
+				{
+					"name": "playForReal",
+					"url": "http://www.google.com", 
+					"enabled":"true"
+				},
+				{
+					"name": "logIn",
+					"url":"http://www.google.com",
+					"enabled":"false"
+				},
+				{
+					"name": "logOut",
+					"url":"http://www.google.com",
+					"enabled":"false"
+				},
+				{
+					"name": "inviteFriend",
+					"url": "http://www.google.com", 
+					"enabled":"false"
+				},
+				{
+					"name": "share",
+					"url": "http://www.google.com", 
+					"enabled":"false"
+				},
+				{
+					"name": "responsiblegamblinglink2",
+					"url": "http://www.gamcare.org.uk",
+					"enabled":"true"
+				},
+				{
+					"name": "responsiblegamblinglink3",
+					"url":  "http://www.google.com", 
+					"enabled":"false"
+				},
+				{
+					"name": "gambling3",
+					"url":"http://www.gamcare.org.uk",
+					"enabled":"false"
+				},
+				{
+					"name": "soundOff",
+					"url": "http://www.google.com", 
+					"enabled":"false"
+				},
+				{
+					"name": "soundOn",
+					"url": "http://www.google.com", 
+					"enabled":"false"
+				}
+			]
+}

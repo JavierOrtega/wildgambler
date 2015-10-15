@@ -1,0 +1,359 @@
+{
+	"layers": [{
+		"elements": [{
+			"name": "menu_bg_full.png",
+			"x": "0 ",
+			"y": "0 ",
+			"width": "165 ",
+			"height": "1024 ",
+			"id": "menu_bg_full.png",
+			"layer": 0
+		}]
+	},
+	{
+		"elements": [{
+			"name": "txt_playForReal_HelveticaNeue_13.5pt_add06e",
+			"x": "9 ",
+			"y": "676 ",
+			"width": "143 ",
+			"height": "692 ",
+			"id": "txt_playForReal_HelveticaNeue_13.5pt_add06e",
+			"layer": 1
+		},
+		{
+			"name": "txt_logIn_HelveticaNeue_13.5pt_ffffff",
+			"x": "9 ",
+			"y": "584 ",
+			"width": "143 ",
+			"height": "600 ",
+			"id": "txt_logIn_HelveticaNeue_13.5pt_ffffff",
+			"layer": 1
+		},
+		{
+			"name": "txt_cashier_HelveticaNeue_13.5pt_e9b63d",
+			"x": "9 ",
+			"y": "499 ",
+			"width": "143 ",
+			"height": "515 ",
+			"id": "txt_cashier_HelveticaNeue_13.5pt_e9b63d",
+			"layer": 1
+		},
+		{
+			"name": "txt_settings_HelveticaNeue_13.5pt_ffffff",
+			"x": "9 ",
+			"y": "411 ",
+			"width": "143 ",
+			"height": "427 ",
+			"id": "txt_settings_HelveticaNeue_13.5pt_ffffff",
+			"layer": 1
+		},
+		{
+			"name": "txt_soundOn_HelveticaNeue_13.5pt_ffffff",
+			"x": "9 ",
+			"y": "330 ",
+			"width": "143 ",
+			"height": "346 ",
+			"id": "txt_soundOn_HelveticaNeue_13.5pt_ffffff",
+			"layer": 1
+		},
+		{
+			"name": "txt_help_HelveticaNeue_13.5pt_ffffff",
+			"x": "9 ",
+			"y": "247 ",
+			"width": "143 ",
+			"height": "263 ",
+			"id": "txt_help_HelveticaNeue_13.5pt_ffffff",
+			"layer": 1
+		},
+		{
+			"name": "txt_paytable_HelveticaNeue_13.5pt_ffffff",
+			"x": "9 ",
+			"y": "162 ",
+			"width": "143 ",
+			"height": "178 ",
+			"id": "txt_paytable_HelveticaNeue_13.5pt_ffffff",
+			"layer": 1
+		},
+		{
+			"name": "txt_home_HelveticaNeueMedium_13.5pt_ffffff",
+			"x": "9 ",
+			"y": "81 ",
+			"width": "143 ",
+			"height": "97 ",
+			"id": "txt_home_HelveticaNeueMedium_13.5pt_ffffff",
+			"layer": 1
+		},
+		{
+			"name": "txt_logOut_HelveticaNeue_13.5pt_ffffff",
+			"x": "9 ",
+			"y": "411 ",
+			"width": "143 ",
+			"height": "427 ",
+			"id": "txt_logOut_HelveticaNeue_13.5pt_ffffff",
+			"layer": 1
+		},
+		{
+			"name": "txt_withdraw_HelveticaNeue_13.5pt_ffffff ",
+			"x": "9 ",
+			"y": "330 ",
+			"width": "143 ",
+			"height": "346 ",
+			"id": "txt_withdraw_HelveticaNeue_13.5pt_ffffff ",
+			"layer": 1
+		},
+		{
+			"name": "txt_deposit_HelveticaNeue_13.5pt_ffffff",
+			"x": "9 ",
+			"y": "247 ",
+			"width": "143 ",
+			"height": "263 ",
+			"id": "txt_deposit_HelveticaNeue_13.5pt_ffffff",
+			"layer": 1
+		},
+		{
+			"name": "txt_transactions_HelveticaNeue_13.5pt_ffffff",
+			"x": "9 ",
+			"y": "162 ",
+			"width": "143 ",
+			"height": "178 ",
+			"id": "txt_transactions_HelveticaNeue_13.5pt_ffffff",
+			"layer": 1
+		},
+		{
+			"name": "txt_share_HelveticaNeue_13.5pt_ffffff",
+			"x": "9 ",
+			"y": "81 ",
+			"width": "143 ",
+			"height": "97 ",
+			"id": "txt_share_HelveticaNeue_13.5pt_ffffff",
+			"layer": 1
+		},
+		{
+			"name": "txt_inviteFriend_HelveticaNeue_13.5pt_ffffff",
+			"x": "9 ",
+			"y": "951 ",
+			"width": "143 ",
+			"height": "967 ",
+			"id": "txt_inviteFriend_HelveticaNeue_13.5pt_ffffff",
+			"layer": 1
+		},
+		{
+			"name": "txt_support_HelveticaNeue_13.5pt_ffffff",
+			"x": "9 ",
+			"y": "856 ",
+			"width": "143 ",
+			"height": "872 ",
+			"id": "txt_support_HelveticaNeue_13.5pt_ffffff",
+			"layer": 1
+		},
+		{
+			"name": "txt_info_HelveticaNeue_13.5pt_ffffff",
+			"x": "9 ",
+			"y": "765 ",
+			"width": "143 ",
+			"height": "781 ",
+			"id": "txt_info_HelveticaNeue_13.5pt_ffffff",
+			"layer": 1
+		}]
+	},
+	{
+		"elements": [{
+			"name": "btn_cashier.png",
+			"x": "57 ",
+			"y": "450 ",
+			"width": "95 ",
+			"height": "496 ",
+			"id": "btn_cashier.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_logIn.png",
+			"x": "55 ",
+			"y": "536 ",
+			"width": "97 ",
+			"height": "580 ",
+			"id": "btn_logIn.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_playForReal.png",
+			"x": "44 ",
+			"y": "625 ",
+			"width": "108 ",
+			"height": "671 ",
+			"id": "btn_playForReal.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_settings.png",
+			"x": "56 ",
+			"y": "368 ",
+			"width": "97 ",
+			"height": "409 ",
+			"id": "btn_settings.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_home.png",
+			"x": "55 ",
+			"y": "33 ",
+			"width": "98 ",
+			"height": "73 ",
+			"id": "btn_home.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_paytable.png",
+			"x": "54 ",
+			"y": "123 ",
+			"width": "99 ",
+			"height": "158 ",
+			"id": "btn_paytable.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_soundOff.png",
+			"x": "55 ",
+			"y": "287 ",
+			"width": "102 ",
+			"height": "324 ",
+			"id": "btn_soundOff.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_soundOn.png",
+			"x": "54 ",
+			"y": "287 ",
+			"width": "103 ",
+			"height": "325 ",
+			"id": "btn_soundOn.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_help.png",
+			"x": "55 ",
+			"y": "204 ",
+			"width": "97 ",
+			"height": "245 ",
+			"id": "btn_help.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_inviteFriend.png",
+			"x": "55 ",
+			"y": "904 ",
+			"width": "94 ",
+			"height": "948 ",
+			"id": "btn_inviteFriend.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_logOut.png",
+			"x": "60 ",
+			"y": "367 ",
+			"width": "93 ",
+			"height": "409 ",
+			"id": "btn_logOut.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_responsiblegamblinglink2.png",
+			"x": "46 ",
+			"y": "530 ",
+			"width": "108 ",
+			"height": "599 ",
+			"id": "btn_responsiblegamblinglink2.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_responsiblegamblinglink3.png",
+			"x": "53 ",
+			"y": "451 ",
+			"width": "99 ",
+			"height": "497 ",
+			"id": "btn_responsiblegamblinglink3.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_share.png",
+			"x": "48 ",
+			"y": "24 ",
+			"width": "104 ",
+			"height": "80 ",
+			"id": "btn_share.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_support.png",
+			"x": "57 ",
+			"y": "801 ",
+			"width": "110 ",
+			"height": "849 ",
+			"id": "btn_support.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_withdraw.png",
+			"x": "50 ",
+			"y": "287 ",
+			"width": "106 ",
+			"height": "325 ",
+			"id": "btn_withdraw.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_transactions.png",
+			"x": "49 ",
+			"y": "111 ",
+			"width": "99 ",
+			"height": "164 ",
+			"id": "btn_transactions.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_deposit.png",
+			"x": "50 ",
+			"y": "201 ",
+			"width": "105 ",
+			"height": "241 ",
+			"id": "btn_deposit.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_info.png",
+			"x": "57 ",
+			"y": "718 ",
+			"width": "98 ",
+			"height": "759 ",
+			"id": "btn_info.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_leftMenuNeg.png",
+			"x": "153 ",
+			"y": "52 ",
+			"width": "227 ",
+			"height": "52 ",
+			"id": "btn_leftMenuNeg.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_leftMenu.png",
+			"x": "153 ",
+			"y": "53 ",
+			"width": "227 ",
+			"height": "60 ",
+			"id": "btn_leftMenu.png",
+			"layer": 2
+		},
+		{
+			"name": "btn_glow.png",
+			"x": "11 ",
+			"y": "-10 ",
+			"width": "137 ",
+			"height": "116 ",
+			"id": "btn_glow.png",
+			"layer": 2
+		}]
+	}]
+}
